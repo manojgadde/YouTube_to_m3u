@@ -13,7 +13,7 @@ http://192.168.1.6/yt.php?c=tv5+telugu
 http://192.168.1.6/yt.php?c=sakshi+live+news
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/abn.jpg" tvg-id="", ABN Telugu
-http://192.168.1.6/yt.php?c=zwES4--H1aM
+http://192.168.1.6/yt.php?c=ABN+telugu
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/v6.jpg" tvg-id="", V6 News
 http://192.168.1.6/yt.php?c=v6+news+live
