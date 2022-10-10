@@ -1,0 +1,58 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/tv9.jpg" tvg-id="", TV9 Telugu
+http://brartech.ga/youtube.php?c=tv9+telugu
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/Ntv.jpg" tvg-id="", NTV Telugu
+http://brartech.ga/youtube.php?c=ntv+telugu
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/tv5.jpg" tvg-id="", TV5 Telugu
+http://brartech.ga/youtube.php?c=tv5+telugu
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/sakshi.jpg" tvg-id="", Sakshi TV
+http://brartech.ga/youtube.php?c=sakshi+live+news
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/abn.jpg" tvg-id="", ABN Telugu
+http://brartech.ga/youtube.php?c=ABN+telugu
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/v6.jpg" tvg-id="", V6 News
+http://brartech.ga/youtube.php?c=v6+news+live
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/TNews.jpg" tvg-id="", T News
+http://brartech.ga/youtube.php?c=T+newslive
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/10tv.jpg" tvg-id="", 10TV Telugu
+http://brartech.ga/youtube.php?c=10tv+telugu+live
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/hmtv.jpg" tvg-id="", hmtv
+http://brartech.ga/youtube.php?c=hm+tv+live
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/EtvTS.jpg" tvg-id="", ETV Telangana
+http://brartech.ga/youtube.php?c=etv+telangana+live+news
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/EtvAP.jpg" tvg-id="", ETV Andhra Pradesh
+http://brartech.ga/youtube.php?c=etv+andhra+pradesh+live+news
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/inews.jpg" tvg-id="", iNews
+http://brartech.ga/youtube.php?c=channel/UCvkPFcsjR_LmjLA54e_1syw
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/MahaaNews.jpg" tvg-id="", Mahaa News
+http://brartech.ga/youtube.php?c=mahaa+news+telugu
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/Rajnews.jpg" tvg-id="", Raj News Telugu
+http://brartech.ga/youtube.php?c=Raj+news+telugu
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/CVR.jpg" tvg-id="", CVR News
+http://brartech.ga/youtube.php?c=cvr+news+live+updates
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/99.jpg" tvg-id="", 99TV
+http://brartech.ga/youtube.php?c=99tv
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/Prime9.jpg" tvg-id="", Prime9 News
+http://brartech.ga/youtube.php?c=channel/UCX0jGBdAREujmkLIdA6B1bA
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/Bakthi.jpg" tvg-id="", Bhakthi TV
+http://brartech.ga/youtube.php?c=Bhakthi+tv
+
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/SVBC.jpg" tvg-id="", SVBC
+http://brartech.ga/youtube.php?c=svbc
