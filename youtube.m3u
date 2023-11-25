@@ -1,64 +1,6 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/Q6QR4979KIQ/maxresdefault.jpg?v=5e6e749b" tvg-id="", TV9 Telugu
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700931505/ei/UdNhZazbL9ulsfIPrIym4Ak/ip/13.83.123.114/id/II_m28Bm-iM.4/source/yt_live_broadcast/requiressl/yes/tx/51018870/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwIFGh7h2gnFRubMW5A0F9LdB36PboF8vTnmDw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAL_FaKKsmNNFkjXS7fKV6ez1EMFvpfgg56IO81m7cTY6AiB3xNASfNu32oxtqTFVSmBMNNNxnGDxKT5h-Xb11aAr5Q%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/HUiHKse-YgM/maxresdefault.jpg?v=5fc8e1b5" tvg-id="", NTV Telugu
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/lyRusqvbZMc/maxresdefault.jpg?v=60826b06" tvg-id="", TV5 Telugu
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i1.ytimg.com/vi/8McTsOqeueE/hqdefault.jpg" tvg-id="", Sakshi TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700928490/ei/isdhZdCzNs6J8wTWs6PwBg/ip/20.75.95.210/id/8McTsOqeueE.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-JQjOJtnO8pK39wIlJYqhSg0JeE0ffVXAjR7A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhANNm7cqur_rqIaP0p3teAS1W5k29sBTV3M3tHrKWeLnLAiBdNu9AGW_oMTRjNo_pOaPOznMM4R5uOiJM0aW1PuXtYg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/IKj_cj51_W0/maxresdefault.jpg?v=60e0a2ea" tvg-id="", ABN Telugu
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/bl9VaUaI0r0/maxresdefault.jpg?v=5e8649a6" tvg-id="", V6 News
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/m4QKX6fdBKE/maxresdefault.jpg?v=607505c9" tvg-id="", T News
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i1.ytimg.com/vi/IHuHxUo4Yps/hqdefault.jpg" tvg-id="", 10TV Telugu
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/qIY8IeluF9g/maxresdefault.jpg?v=5fb82c99" tvg-id="", hmtv
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/JIIK4WzXnAw/maxresdefault.jpg?v=60d1e81e" tvg-id="", ETV Telangana
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/kR5vs49ppkI/maxresdefault.jpg?v=60ad2d47" tvg-id="", ETV Andhra Pradesh
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/akYs2CS_8mI/hqdefault_live.jpg" tvg-id="", iNews
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/vIRyCXcbr6k/maxresdefault.jpg?v=605193d8" tvg-id="", Mahaa News
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/ESrJb6uPgw8/hqdefault_live.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCm3QJc1R0kFtLpaOL5gXBPYEYNog" tvg-id="", Raj News Telugu
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/_kx2HsngMNY/hqdefault_live.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBudE86d1pWvkUnQ8CFqp9M17519g" tvg-id="", CVR News
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/ZoU4ijmDlcQ/hqdefault_live.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBd6sKd2rnDUXJUJg8BCRiiO3Xzlg" tvg-id="", 99TV
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/8PDEx9JcV6U/maxresdefault.jpg?v=605fe1cc" tvg-id="", Prime9 News
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/fgmjtTkdvUQ/maxresdefault.jpg?v=60e1d9d3" tvg-id="", News 1 Telugu
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700928497/ei/kcdhZaihIOq7_9EPyIaLsAE/ip/20.75.95.210/id/Nkfur0Drszw.1/source/yt_live_broadcast/requiressl/yes/tx/24554066/txs/24554063%2C24554066/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_t5XkNoc5vaxm_uPJUvThrxoWj4OUXJYUZTZQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAKuTewk4gqOqt9y1Z_TvSrsvMQix-4yYaQtVvty8mcVrAiAaKZRWxLdnaFQDoUIJjwjY3DNV6903ZdYtK0v0CNcDVQ%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/omkpEqoCe1w/hq720_live.jpg" tvg-id="", NewsNow Telugu
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/assets/moose_na.m3u
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/d0dB3kSCMmM/maxresdefault.jpg?v=60e30f87" tvg-id="", Bhakthi TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700928498/ei/ksdhZd2qNOaI_9EP3rCPqAk/ip/20.75.95.210/id/d0dB3kSCMmM.9/source/yt_live_broadcast/requiressl/yes/tx/51033616/txs/51033612%2C51033613%2C51033614%2C51033615%2C51033616%2C51033617%2C51033618%2C51033619%2C51033620/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6viZMif73Itg4y454-o8cd5Nw2WePHFaRqrkA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAK9arst26Lwg5Fzv94AvUbbNA4sPJN_GtCdlnlFf0taCAiEA_TabFaOBYF5oIMTW-Ro3zK-7tV2eQQmHF1UsuLI9tuA%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTHZN9QLKVjv6YgQwjFXPPJm_GiHCxpCltpHF3Wqw=s900-c-k-c0x00ffffff-no-rj" tvg-id="", SVBC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1700928499/ei/k8dhZb_jGcy4gwOIy7jQDA/ip/20.75.95.210/id/rp2a5Tok5No.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7DSJQv-qkbnULfI6ei02D2kK87x3T2vmsKFbw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhANJkHa5jN_HgL-PqVJ0cdyFAOs1ib3UpKqdgcsCzHZN-AiEAry0_3Va8Pqir3CrHls-myDlmEOq-VsagD_CJt_EarCo%3D/file/index.m3u8
