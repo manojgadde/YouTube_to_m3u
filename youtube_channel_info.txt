@@ -1,36 +1,36 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-TV9 Telugu | Telugu | https://i.ytimg.com/vi/Q6QR4979KIQ/maxresdefault.jpg?v=5e6e749b |
+TV9 Telugu X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/tv9.jpg |
 https://www.youtube.com/watch?v=II_m28Bm-iM
 
-NTV Telugu | Telugu | https://i.ytimg.com/vi/HUiHKse-YgM/maxresdefault.jpg?v=5fc8e1b5 |
+NTV Telugu X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/Ntv.jpg |
 https://www.youtube.com/watch?v=L0RktSIM980
 
-TV5 Telugu | Telugu | https://i.ytimg.com/vi/lyRusqvbZMc/maxresdefault.jpg?v=60826b06 |
+TV5 Telugu X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/tv5.jpg |
 https://www.youtube.com/watch?v=ox2rT1KRkFI
 
-Sakshi TV | Telugu | https://i1.ytimg.com/vi/8McTsOqeueE/hqdefault.jpg |
+Sakshi TV X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/sakshi.jpg |
 https://www.youtube.com/watch?v=8McTsOqeueE
 
-ABN Telugu | Telugu | https://i.ytimg.com/vi/IKj_cj51_W0/maxresdefault.jpg?v=60e0a2ea |
+ABN Telugu X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/abn.jpg |
 https://www.youtube.com/watch?v=Q-nSNssz3p0
 
-V6 News | Telugu | https://i.ytimg.com/vi/bl9VaUaI0r0/maxresdefault.jpg?v=5e8649a6 |
+V6 News X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/v6.jpg |
 https://www.youtube.com/watch?v=_xtceKvlVYQ
 
-T News | Telugu | https://i.ytimg.com/vi/m4QKX6fdBKE/maxresdefault.jpg?v=607505c9 |
+T News X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/TNews.jpg |
 https://www.youtube.com/watch?v=MGv7jFOuCc8
 
-10TV Telugu | Telugu | https://i1.ytimg.com/vi/IHuHxUo4Yps/hqdefault.jpg |
+10TV Telugu X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/10tv.jpg |
 https://www.youtube.com/watch?v=byG7EGw9NPs
 
-hmtv | Telugu | https://i.ytimg.com/vi/qIY8IeluF9g/maxresdefault.jpg?v=5fb82c99 |
+HMTV X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/hmtv.jpg |
 https://www.youtube.com/watch?v=Li1ZA566CIo
 
-iNews | Telugu | https://i.ytimg.com/vi/akYs2CS_8mI/hqdefault_live.jpg |
+iNews X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/inews.jpg |
 https://www.youtube.com/watch?v=CWCBlXdAfpo
 
-Mahaa News | Telugu | https://i.ytimg.com/vi/vIRyCXcbr6k/maxresdefault.jpg?v=605193d8 |
+Mahaa News X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/mahaa%20news.jpg |
 https://www.youtube.com/watch?v=kHKCbtdahX8
 
