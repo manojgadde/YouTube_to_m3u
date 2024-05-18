@@ -29,14 +29,9 @@ HMTV X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/h
 https://www.youtube.com/watch?v=Li1ZA566CIo
 
 iNews X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/inews.jpg?raw=true |
-https://www.youtube.com/watch?v=N86KGPjYExU
+https://www.youtube.com/watch?v=7-1RNIHai-Y
 
 Mahaa News X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/mahaa%20news.jpg?raw=true |
-https://www.youtube.com/watch?v=kHKCbtdahX8
-
-R TV | Telugu | https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/Logos/cropped-RTV-Square-512.png |
-https://m.youtube.com/watch?v=W6XEGVjl2Ig
-
-
+https://www.youtube.com/watch?v=NvR9sEU6FJY
 
 
