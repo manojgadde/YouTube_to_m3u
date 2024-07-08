@@ -5,7 +5,7 @@ TV9 Telugu X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/L
 https://www.youtube.com/watch?v=II_m28Bm-iM
 
 RTV Telugu X | Telugu | https://yt3.googleusercontent.com/xIOtgiGYmw-UXLAzZG3YHD-jr1p4cx7-dxEyyAoiL5l8hPfwRzGp9c_IgMMA4LQgzzuovzHXmw=s160-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=7h0pGWHst0Q
+https://www.youtube.com/@RTVNewsNetwork/streams
 
 NTV Telugu X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/Ntv.jpg?raw=true |
 https://www.youtube.com/watch?v=L0RktSIM980
@@ -31,10 +31,19 @@ https://www.youtube.com/watch?v=byG7EGw9NPs
 HMTV X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/hmtv.jpg?raw=true |
 https://www.youtube.com/watch?v=Li1ZA566CIo
 
-iNews X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/inews.jpg?raw=true |
-https://www.youtube.com/watch?v=7-1RNIHai-Y
-
 Mahaa News X | Telugu | https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/mahaa%20news.jpg?raw=true |
 https://www.youtube.com/watch?v=NvR9sEU6FJY
+
+Zee News Telugu X | Telugu | https://i.ytimg.com/vi/ffI9-IioJK8/maxresdefault.jpg?v=665f56ca |
+https://www.youtube.com/watch?v=ffI9-IioJK8
+
+Big News Telugu X | Telugu | https://i.ytimg.com/vi/ueJsgNKeq8c/maxresdefault.jpg?v=654267ea |
+https://www.youtube.com/watch?v=ueJsgNKeq8c
+
+SiTi X | Telugu | https://i.ytimg.com/vi/wVaovaRl-M8/maxresdefault.jpg?v=65fec378 |
+https://www.youtube.com/watch?v=wVaovaRl-M8
+
+I News X | Telugu | https://i1.ytimg.com/vi/81lJZyoBsTc/hqdefault.jpg |
+https://www.youtube.com/watch?v=81lJZyoBsTc
 
 
