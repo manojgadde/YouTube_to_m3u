@@ -1,46 +1,46 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/tv9.jpg?raw=true" tvg-id="", TV9 Telugu X
-http://gmworld.tech/yt/istream.php?v=II_m28Bm-iM
+http://gmworld.tech/play.m3u8?v=II_m28Bm-iM
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/RTV.png?raw=true" tvg-id="", RTV Telugu X
-http://gmworld.tech/yt/istream.php?c=@RTVNewsNetwork
+http://gmworld.tech/play.m3u8?c=@RTVNewsNetwork
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/Ntv.jpg?raw=true" tvg-id="", NTV Telugu X
-http://gmworld.tech/yt/istream.php?v=L0RktSIM980
+http://gmworld.tech/play.m3u8?v=L0RktSIM980
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/tv5.jpg?raw=true" tvg-id="", TV5 Telugu X
-http://gmworld.tech/yt/istream.php?v=qcyV3X7R1Cc
+http://gmworld.tech/play.m3u8?v=ho9JlBnrGWg
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/sakshi.jpg?raw=true" tvg-id="", Sakshi TV X
-http://gmworld.tech/yt/istream.php?v=8McTsOqeueE
+http://gmworld.tech/play.m3u8?v=8McTsOqeueE
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/abn.jpg?raw=true" tvg-id="", ABN Telugu X
-http://gmworld.tech/yt/istream.php?v=HoYsWagMFfE
+http://gmworld.tech/play.m3u8?v=HoYsWagMFfE
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/v6.jpg?raw=true" tvg-id="", V6 News X
-http://gmworld.tech/yt/istream.php?v=_xtceKvlVYQ
+http://gmworld.tech/play.m3u8?v=_xtceKvlVYQ
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/TNews.jpg?raw=true" tvg-id="", T News X
-http://gmworld.tech/yt/istream.php?v=JnuYyOJ0XLU
+http://gmworld.tech/play.m3u8?v=JnuYyOJ0XLU
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/10tv.jpg?raw=true" tvg-id="", 10TV Telugu X
-http://gmworld.tech/yt/istream.php?v=byG7EGw9NPs3JodH4xoqJs
+http://gmworld.tech/play.m3u8?v=byG7EGw9NPs3JodH4xoqJs
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/hmtv.jpg?raw=true" tvg-id="", HMTV X
-http://gmworld.tech/yt/istream.php?v=3JodH4xoqJs
+http://gmworld.tech/play.m3u8?v=3JodH4xoqJs
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/mahaa%20news.jpg?raw=true" tvg-id="", Mahaa News X
-http://gmworld.tech/yt/istream.php?v=NvR9sEU6FJY
+http://gmworld.tech/play.m3u8?v=NvR9sEU6FJY
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/ffI9-IioJK8/maxresdefault.jpg?v=665f56ca" tvg-id="", Zee News Telugu X
-http://gmworld.tech/yt/istream.php?v=ffI9-IioJK8
+http://gmworld.tech/play.m3u8?v=ffI9-IioJK8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/ueJsgNKeq8c/maxresdefault.jpg?v=654267ea" tvg-id="", Big News Telugu X
-http://gmworld.tech/yt/istream.php?v=ueJsgNKeq8c
+http://gmworld.tech/play.m3u8?v=ueJsgNKeq8c
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/wVaovaRl-M8/maxresdefault.jpg?v=65fec378" tvg-id="", SiTi X
-http://gmworld.tech/yt/istream.php?v=o7ieS-y4vuI
+http://gmworld.tech/play.m3u8?v=o7ieS-y4vuI
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i1.ytimg.com/vi/81lJZyoBsTc/hqdefault.jpg" tvg-id="", I News X
-http://gmworld.tech/yt/istream.php?c=iNews
+http://gmworld.tech/play.m3u8?c=iNews
