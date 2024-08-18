@@ -1,46 +1,43 @@
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/tv9.jpg?raw=true" tvg-id="", TV9 Telugu X
-http://gmworld.tech/play.m3u8?v=II_m28Bm-iM
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=II_m28Bm-iM|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/RTV.png?raw=true" tvg-id="", RTV Telugu X
-http://gmworld.tech/play.m3u8?c=@RTVNewsNetwork
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/@RTVNewsNetwork/streams
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/Ntv.jpg?raw=true" tvg-id="", NTV Telugu X
-http://gmworld.tech/play.m3u8?v=L0RktSIM980
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=L0RktSIM980|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/tv5.jpg?raw=true" tvg-id="", TV5 Telugu X
-http://gmworld.tech/play.m3u8?v=ho9JlBnrGWg
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=ho9JlBnrGWg|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/sakshi.jpg?raw=true" tvg-id="", Sakshi TV X
-http://gmworld.tech/play.m3u8?v=8McTsOqeueE
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=8McTsOqeueE|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/abn.jpg?raw=true" tvg-id="", ABN Telugu X
-http://gmworld.tech/play.m3u8?v=HoYsWagMFfE
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=HoYsWagMFfE|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/v6.jpg?raw=true" tvg-id="", V6 News X
-http://gmworld.tech/play.m3u8?v=_xtceKvlVYQ
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=_xtceKvlVYQ|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/TNews.jpg?raw=true" tvg-id="", T News X
-http://gmworld.tech/play.m3u8?v=JnuYyOJ0XLU
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=JnuYyOJ0XLU|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/10tv.jpg?raw=true" tvg-id="", 10TV Telugu X
-http://gmworld.tech/play.m3u8?v=byG7EGw9NPs3JodH4xoqJs
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=byG7EGw9NPs3JodH4xoqJs|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/hmtv.jpg?raw=true" tvg-id="", HMTV X
-http://gmworld.tech/play.m3u8?v=3JodH4xoqJs
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=3JodH4xoqJs|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/mahaa%20news.jpg?raw=true" tvg-id="", Mahaa News X
-http://gmworld.tech/play.m3u8?v=NvR9sEU6FJY
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=NvR9sEU6FJY|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/ffI9-IioJK8/maxresdefault.jpg?v=665f56ca" tvg-id="", Zee News Telugu X
-http://gmworld.tech/play.m3u8?v=ffI9-IioJK8
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=ffI9-IioJK8|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/ueJsgNKeq8c/maxresdefault.jpg?v=654267ea" tvg-id="", Big News Telugu X
-http://gmworld.tech/play.m3u8?v=ueJsgNKeq8c
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=ueJsgNKeq8c|user-agent="okhttp/4.10.0"
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://i.ytimg.com/vi/wVaovaRl-M8/maxresdefault.jpg?v=65fec378" tvg-id="", SiTi X
-http://gmworld.tech/play.m3u8?v=o7ieS-y4vuI
-
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://i1.ytimg.com/vi/81lJZyoBsTc/hqdefault.jpg" tvg-id="", I News X
-http://gmworld.tech/play.m3u8?c=iNews
+https://youtube.manojgadde.workers.dev?url=https://www.youtube.com/watch?v=o7ieS-y4vuI|user-agent="okhttp/4.10.0"
