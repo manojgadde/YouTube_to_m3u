@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/test.m3u
 https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/test.m3u
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/hmtv.jpg?raw=true" tvg-id="", HMTV X
-https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/test.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1731381508/ei/pHQyZ9fXB9Ltir4P1MDg8AE/ip/172.183.108.39/id/3JodH4xoqJs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApARwrCGP4tWT9c3cDjPqrBUBdP8iCtbsv_MdL-Nxu8Ij6Qp9pM1CTtuja3qo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgd12KCNmB0y_HAqBqtKBE3hKF0QoLXo9fnPyQvIs_9VgCIDhuPre_yM4CvTjnGsYCf-pOXmtVYdKZfQm_qnDQqnNn/file/index.m3u8
 
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://github.com/manojgadde/YouTube_to_m3u/blob/main/Logos/mahaa%20news.jpg?raw=true" tvg-id="", Mahaa News X
 https://raw.githubusercontent.com/manojgadde/YouTube_to_m3u/main/test.m3u
